@@ -1,8 +1,8 @@
 ## Hi there 👋
-👨‍🎓 I'm currently in 3rd year studying Btech. in CSE 
-💻 MERN Stack Developer
-👨‍💻 Coder
-🏅 Hobbies: Yoga, Swimming
+👨‍🎓 I'm currently in 3rd year studying Btech. in CSE <br>
+💻 MERN Stack Developer <br>
+👨‍💻 Coder <br>
+🏅 Hobbies: Yoga, Swimming <br>
 <!--
 **abhinav-i7/abhinav-i7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
