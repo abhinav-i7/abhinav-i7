@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- I'm a computer science currently doing Btech. in CSE 
+- MERN Stack Developer
+- Coder
+- Hobbies: Yoga, Swimming
 <!--
 **abhinav-i7/abhinav-i7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
